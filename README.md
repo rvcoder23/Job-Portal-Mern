@@ -48,7 +48,7 @@ A modern and feature-rich job portal application that connects job seekers with 
 ### Backend Setup
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/job-portal-app.git
+git clone https://github.com/rvcoder23/Job-Portal-Mern.git
 
 # Navigate to backend directory
 cd backend
